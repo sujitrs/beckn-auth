@@ -1,4 +1,4 @@
-# swagger-java-client
+# beckn-auth-java-client
 
 Beckn Authentication API
 - API version: 0.8.0
